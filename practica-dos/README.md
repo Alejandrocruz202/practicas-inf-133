@@ -4,6 +4,6 @@ Completa tus datos personales en la siguiente tabla:
 -------------------------
 | Nombres  | Apellidos  | CI   |
 | -------- | ---------- | ---- |
-| `nombre` | `apellido` | `ci` |
+| Alejandro Angel | Cruz Chacon | 9943299 |
 
 *Ejercicios Próximamente...*
