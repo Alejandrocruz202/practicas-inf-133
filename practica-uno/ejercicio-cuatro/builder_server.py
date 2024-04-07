@@ -3,18 +3,7 @@ import json
 
 from urllib.parse import urlparse, parse_qs
 
-pacientes = [
-    {
-        "ci": 9943299,
-        "nombre": "Alejandro",
-        "apellido": "Cruz",
-        "edad": 22,
-        "genero": "masculino",
-        "diagnostico": "parkinson",
-        "doctor": "edriel",
-    },
-]
-
+pacientes =  {}
 
 class pacientes:
     def __init__(self):
